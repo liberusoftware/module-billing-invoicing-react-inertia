@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-invoicing-react-inertia",
+  "capabilityKey": "liberusoftware/module-billing-invoicing",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-billing-invoicing-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/billing/nextjs/invoicing.md",
+  "presentationPlan": "projects/billing/react/invoicing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
